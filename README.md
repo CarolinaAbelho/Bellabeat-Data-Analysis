@@ -55,9 +55,9 @@ Based on the analysis, here are key recommendations for Bellabeat:
 
 This repository contains the following files and folders:
 
-* `R Scrips`: folder with R script for data cleaning and preparation.
-****** `your_analysis_script_name.R`: R script containing the full analysis and visualization code.
-* `Cleaned_Data/`: Folder containing the cleaned CSV files used for analysis.
+* `R Scripts`: Folder with R script for data cleaning and preparation.
+* ***** `your_analysis_script_name.R`: R script containing the full analysis and visualization code.
+* `Cleaned_Data`: Folder containing the cleaned CSV files used for analysis.
 * `BellaBeat Case Study Report.pdf`: The analysis report in PDF format.
 
 ## Contact
