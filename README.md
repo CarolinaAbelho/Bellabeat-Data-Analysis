@@ -49,7 +49,7 @@ Based on the analysis, here are key recommendations for Bellabeat:
 ## View Full Project & Presentation
 
 * **Interactive Portfolio (Google Sites):** [**Click Here to View the Full Portfolio**](https://sites.google.com/view/carolinaabelho-portfolio/bellabeat-case-study)
-* **Full Presentation (Google Slides):** [**Click Here to View the Presentation**]([https://docs.google.com/presentation/d/1Oh-CWmKvwfw1mXeauwJqlwoO88pRLObFejMcE8nHIDc/edit?usp=sharing])
+* **Full Presentation (Google Slides):** [**Click Here to View the Presentation**](https://docs.google.com/presentation/d/1Oh-CWmKvwfw1mXeauwJqlwoO88pRLObFejMcE8nHIDc/edit?usp=sharing)
 
 ## Repository Contents
 
