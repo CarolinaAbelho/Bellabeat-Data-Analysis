@@ -48,15 +48,14 @@ Based on the analysis, here are key recommendations for Bellabeat:
 
 ## View Full Project & Presentation
 
-* **Interactive Portfolio (Google Sites):** [**Click Here to View the Full Portfolio**](https://sites.google.com/view/your-google-sites-portfolio-url-here)
-* **Full Presentation (Google Slides):** [**Click Here to View the Presentation**](https://docs.google.com/presentation/d/your_google_slides_url_here/edit?usp=sharing)
+* **Interactive Portfolio (Google Sites):** [**Click Here to View the Full Portfolio**]([https://sites.google.com/view/carolinaabelho-portfolio/bellabeat-case-study])
+* **Full Presentation (Google Slides):** [**Click Here to View the Presentation**]([https://docs.google.com/presentation/d/1Oh-CWmKvwfw1mXeauwJqlwoO88pRLObFejMcE8nHIDc/edit?usp=sharing])
 
 ## Repository Contents
 
 This repository contains the following files and folders:
 
-* `R Scripts`: Folder with R script for data cleaning and preparation.
-* ***** `your_analysis_script_name.R`: R script containing the full analysis and visualization code.
+* `R Scripts`: Folder with R script for data cleaning, preparation, analysis and plots.
 * `Cleaned_Data`: Folder containing the cleaned CSV files used for analysis.
 * `BellaBeat Case Study Report.pdf`: The analysis report in PDF format.
 
